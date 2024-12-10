@@ -1,0 +1,3 @@
+C:/Users/Octowhere/Desktop/CVUT/3. Semestr/PCC/semestralka-c/cmake-build-debug/CMakeFiles/semestralka_c.dir
+C:/Users/Octowhere/Desktop/CVUT/3. Semestr/PCC/semestralka-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Octowhere/Desktop/CVUT/3. Semestr/PCC/semestralka-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
